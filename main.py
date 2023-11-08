@@ -1,3 +1,5 @@
 import feladatok
 
-feladatok.feladat3()
+import gyakorlas
+
+gyakorlas.intervallum()
